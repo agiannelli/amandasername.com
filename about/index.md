@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/home.njk
 title: About Me
 templateClass: tmpl-home
 eleventyNavigation:
@@ -8,3 +8,5 @@ eleventyNavigation:
 ---
 
 I am what you would call a multipotentialite.
+
+More coming soon!
