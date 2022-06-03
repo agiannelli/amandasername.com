@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "The Personal Blog of Amanda Giannelli",
+  "url": "https://amandasername.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I'm just a girl, standing in front of the internet, talking about the stuff I like",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I'm just a girl, standing in front of the internet, talking about the stuff I like",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://amandasername.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://amandasername.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Amanda Giannelli",
+    "email": "giannelli.tech@gmail.com",
+    "url": "https://twitter.com/GiannelliTech"
   }
 }
