@@ -1,26 +1,17 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Welcome to my brain!
+description: The inaugural post for this blog
+date: 2023-12-13
 tags:
-  - another tag
+  - first post
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I have made first posts many times before, but perhaps this will be the one that sticks. 
 
-## Section Header
+I have overcomplicated blogging attempts in the past. This time I'm keeping it simple.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+My intial goal for this blog is to track my favorites lists. This will range from books to music to hobbies to skin care to exercise... etc. 
 
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
+I'd also love to share achievements lists, and things of that nature because I often downplay and altogether forget my accomplishments. 
 
- // Test with a line break above this line.
- console.log('Test');
-```
+Let's see where this goes! Welcome to my little corner of the internet. I'm glad you're here :) 
